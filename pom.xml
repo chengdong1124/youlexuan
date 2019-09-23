@@ -7,6 +7,6 @@
     <groupId>com.offcn</groupId>
     <artifactId>youlexuan-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-
+    <depends></depends>
+         
 </project>
